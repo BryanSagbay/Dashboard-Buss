@@ -6,7 +6,7 @@
 Este es un proyecto para administrar tareas o movimientos de negocios. ¡Bienvenido!
 
 
-[![Icon](https://img.shields.io/badge/react-blue?logo=Spring)](https://img.shields.io/badge/react-blue?logo=Spring) [![Langua](https://img.shields.io/github/languages/count/BryanSagbay/Dashboard-Buss?color=c90e21 "Langua")](https://img.shields.io/github/languages/count/BryanSagbay/Dashboard-Buss?color=c90e21 "Langua") [![Git](https://img.shields.io/github/repo-size/bryansagbay/Dashboard-Buss?color=56BEB8 "Gut")](https://img.shields.io/github/repo-size/bryansagbay/Dashboard-Buss?color=56BEB8 "Gut") [![Start](https://img.shields.io/github/stars/bryansagbay/Dashboard-Buss?color=blue "Start")](https://img.shields.io/github/stars/bryansagbay/Dashboard-Buss?color=blue "Start") 
+[![Icon](https://img.shields.io/badge/react-black?logo=Spring)](https://img.shields.io/badge/react-black?logo=Spring) [![Langua](https://img.shields.io/github/languages/count/BryanSagbay/Dashboard-Buss?color=c90e21 "Langua")](https://img.shields.io/github/languages/count/BryanSagbay/Dashboard-Buss?color=c90e21 "Langua") [![Git](https://img.shields.io/github/repo-size/bryansagbay/Dashboard-Buss?color=56BEB8 "Gut")](https://img.shields.io/github/repo-size/bryansagbay/Dashboard-Buss?color=56BEB8 "Gut") [![Start](https://img.shields.io/github/stars/bryansagbay/Dashboard-Buss?color=blue "Start")](https://img.shields.io/github/stars/bryansagbay/Dashboard-Buss?color=blue "Start") 
 
 
 ## Descripción
@@ -45,13 +45,13 @@ Para instalar y ejecutar este proyecto localmente, sigue estos pasos:
 1. Clona este repositorio en tu máquina local:
 
     ```bash
-    git clone https://github.com/tu-usuario/proyecto-xyz.git
+    git clone https://github.com/BryanSagbay/Dashboard-Buss.git
     ```
 
 2. Instala las dependencias del proyecto:
 
     ```bash
-    cd proyecto-xyz
+    cd Dashboard-Buss
     npm install
     ```
 
@@ -61,28 +61,13 @@ Para instalar y ejecutar este proyecto localmente, sigue estos pasos:
     npm start
     ```
 
-## Contribución
-
-¡Agradecemos mucho las contribuciones! Si deseas contribuir a este proyecto, sigue estos pasos:
-
-1. Realiza un fork del repositorio.
-2. Crea una nueva rama (`git checkout -b feature/nueva-caracteristica`).
-3. Realiza tus cambios y haz commit (`git commit -am 'Agrega una nueva característica'`).
-4. Sube tus cambios a tu fork (`git push origin feature/nueva-caracteristica`).
-5. Abre un Pull Request.
-
 ## Licencia
 
 Este proyecto está bajo la licencia [MIT](LICENSE).
 
 ---
 
-Este es solo un ejemplo básico. Puedes personalizarlo según las necesidades específicas de tu proyecto, incluyendo más secciones, detalles de implementación, guías de usuario, etc.
 
-Espero que esto te ayude a crear un README.md informativo y bien documentado para tu proyecto. ¡Buena suerte!
-
-
-HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
