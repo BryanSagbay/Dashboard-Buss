@@ -18,24 +18,39 @@ El proyecto SYSTEM-SAM es una aplicación web que permite a los usuarios realiza
 - Explorar mejorar dentro del negocio.
 - Mantener un seguimiento adecuado a cada proceso.
 
-## Dashboard
 
-Aquí tienes algunas capturas de pantalla de nuestra aplicación en acción:
+## API Reference
 
-### Página de Inicio
+Aquí tienes la api de inferencia:
 
-![Página de Inicio](screenshots/home.png)
+#### Post Loggin 
 
-### Dashboard
+```http
+  POST /auth/login-v1
+```
 
-![Dashboard](screenshots/dashboard.png)
+| Parameter | Type     | Description                 |
+| :-------- | :------- | :-------------------------- |
+| `username`| `string` | **Required**. Your username |
+| `password`| `string` | **Required**. Your password |
+| `api_key` | `string` | **Required**. Your API key  |
 
-### Perfil de Usuario
+#### Get item
 
-![Perfil de Usuario](screenshots/profile.png)
+```http
+  POST /auth/register-v1
+```
 
-### Otras funcionalidades
-![Perfil de Usuario](screenshots/profile.png)
+| Parameter  | Type     | Description    |
+| :--------- | :------- | :------------- |
+| `email`    | `string` | **Required**.  |
+| `username` | `string` | **Required**.  |
+| `firstname`| `string` | **Required**.  |
+| `lastname` | `string` | **Required**.  |
+| `password` | `string` | **Required**.  |
+
+#### add(num1, num2)
+
 
 
 ## Instalación
@@ -60,31 +75,6 @@ Para instalar y ejecutar este proyecto localmente, sigue estos pasos:
     ```bash
     npm start
     ```
-
-## API Reference
-
-#### Get all items
-
-```http
-  GET /api/items
-```
-
-| Parameter | Type     | Description                |
-| :-------- | :------- | :------------------------- |
-| `api_key` | `string` | **Required**. Your API key |
-
-#### Get item
-
-```http
-  GET /api/items/${id}
-```
-
-| Parameter | Type     | Description                       |
-| :-------- | :------- | :-------------------------------- |
-| `id`      | `string` | **Required**. Id of item to fetch |
-
-#### add(num1, num2)
-
 
 ## Licencia
 
