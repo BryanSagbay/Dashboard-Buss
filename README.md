@@ -5,7 +5,8 @@
 
 Este es un proyecto para administrar tareas o movimientos de negocios. ¡Bienvenido!
 
-[![AGPL License](https://img.shields.io/badge/react-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
+
+[![Icon](https://img.shields.io/badge/react-blue?logo=Spring)](https://img.shields.io/badge/react-blue?logo=Spring) [![Langua](https://img.shields.io/github/languages/count/BryanSagbay/Dashboard-Buss?color=c90e21 "Langua")](https://img.shields.io/github/languages/count/BryanSagbay/Dashboard-Buss?color=c90e21 "Langua") [![Git](https://img.shields.io/github/repo-size/bryansagbay/Dashboard-Buss?color=56BEB8 "Gut")](https://img.shields.io/github/repo-size/bryansagbay/Dashboard-Buss?color=56BEB8 "Gut") [![Start](https://img.shields.io/github/stars/bryansagbay/Dashboard-Buss?color=blue "Start")](https://img.shields.io/github/stars/bryansagbay/Dashboard-Buss?color=blue "Start") 
 
 
 ## Descripción
