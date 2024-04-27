@@ -1,8 +1,7 @@
-¡Claro! Aquí tienes un ejemplo de cómo podrías estructurar un README.md con imágenes y una explicación detallada:
 
 ---
 
-# Proyecto XYZ
+# Dashboard Administrativo
 
 Este es un proyecto increíble que hace X, Y, y Z. ¡Bienvenido!
 
