@@ -6,7 +6,7 @@
 Este es un proyecto para administrar tareas o movimientos de negocios. ¡Bienvenido!
 
 
-[![Icon](https://img.shields.io/badge/react-56BEB8?logo=react)](https://img.shields.io/badge/react-56BEB8?logo=react) [![Langua](https://img.shields.io/github/languages/count/BryanSagbay/Dashboard-Buss?color=c90e21 "Langua")](https://img.shields.io/github/languages/count/BryanSagbay/Dashboard-Buss?color=c90e21 "Langua") [![Git](https://img.shields.io/github/repo-size/bryansagbay/Dashboard-Buss?color=56BEB8 "Gut")](https://img.shields.io/github/repo-size/bryansagbay/Dashboard-Buss?color=56BEB8 "Gut") [![Start](https://img.shields.io/github/stars/bryansagbay/Dashboard-Buss?color=blue "Start")](https://img.shields.io/github/stars/bryansagbay/Dashboard-Buss?color=blue "Start") 
+[![Icon](https://img.shields.io/badge/react-gray?logo=react)](https://img.shields.io/badge/react-gray?logo=react) [![Langua](https://img.shields.io/github/languages/count/BryanSagbay/Dashboard-Buss?color=c90e21 "Langua")](https://img.shields.io/github/languages/count/BryanSagbay/Dashboard-Buss?color=c90e21 "Langua") [![Git](https://img.shields.io/github/repo-size/bryansagbay/Dashboard-Buss?color=56BEB8 "Gut")](https://img.shields.io/github/repo-size/bryansagbay/Dashboard-Buss?color=56BEB8 "Gut") [![Start](https://img.shields.io/github/stars/bryansagbay/Dashboard-Buss?color=blue "Start")](https://img.shields.io/github/stars/bryansagbay/Dashboard-Buss?color=blue "Start") 
 
 
 ## Descripción
