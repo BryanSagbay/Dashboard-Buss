@@ -3,7 +3,7 @@
 
 # Dashboard Administrativo
 
-Este es un proyecto increíble que hace X, Y, y Z. ¡Bienvenido!
+Este es un proyecto para administrar tareas o movimientos de negocios. ¡Bienvenido!
 
 ## Descripción
 
