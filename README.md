@@ -68,7 +68,7 @@ Este proyecto está bajo la licencia [MIT](LICENSE).
 ---
 
 
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -103,3 +103,10 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
+---
+
+## Licencia
+
+Este proyecto está bajo la licencia [MIT](LICENSE).
+
+---
