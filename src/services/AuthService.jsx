@@ -1,56 +1,14 @@
-const BASE_URL = "http://localhost:8080/auth";
+import axios from 'axios';
 
-const AuthService = {
-  login: async (credentials) => {
-    try {
-      const response = await fetch(`${BASE_URL}/login-v1`, {
-        method: "POST",
-        headers: {
-          "Content-Type": "application/json",
-        },
-        body: JSON.stringify(credentials),
-      });
-      const data = await response.text();
-     
-      if (response.ok) {
-        localStorage.setItem("token", data.token);
-        return data;
-      } else {
-        throw new Error(data.message || "Error in login");
-      }
-    } catch (error) {
-      throw new Error(error.message || "Error in login");
-    }
-  },
+const API_URL = 'http://localhost:8080/auth';
 
-  register: async (userData) => {
-    try {
-      const response = await fetch(`${BASE_URL}/register-v1`, {
-        method: "POST",
-        headers: {
-          "Content-Type": "application/json",
-        },
-        body: JSON.stringify(userData),
-      });
-      const data = await response.json();
-      if (response.ok) {
-        localStorage.setItem("token", data.token);
-        return data;
-      } else {
-        throw new Error(data.message || "Error in registration");
-      }
-    } catch (error) {
-      throw new Error(error.message || "Error in registration");
-    }
-  },
-
-  logout: () => {
-    localStorage.removeItem("token");
-  },
-
-  getToken: () => {
-    return localStorage.getItem("token");
-  },
+const login = async (user_name, password) => {
+  try {
+    const response = await axios.post(`${API_URL}/login-v1`, { user_name, password });
+    return response.data.token;
+  } catch (error) {
+    throw Error('Error logging in');
+  }
 };
 
-export default AuthService;
+export { login };
