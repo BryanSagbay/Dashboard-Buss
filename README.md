@@ -5,6 +5,9 @@
 
 Este es un proyecto para administrar tareas o movimientos de negocios. ¡Bienvenido!
 
+[![AGPL License](https://img.shields.io/badge/react-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
+
+
 ## Descripción
 
 El proyecto SYSTEM-SAM es una aplicación web que permite a los usuarios realizar tareas imprescindibles. Con esta aplicación, puedes hacer lo siguiente:
