@@ -103,10 +103,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
----
 
 ## Licencia
 
 Este proyecto está bajo la licencia [MIT](LICENSE).
-
----
