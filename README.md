@@ -7,13 +7,14 @@ Este es un proyecto para administrar tareas o movimientos de negocios. ¡Bienven
 
 ## Descripción
 
-El proyecto XYZ es una aplicación web que permite a los usuarios realizar tareas increíbles. Con esta aplicación, puedes hacer lo siguiente:
+El proyecto SYSTEM-SAM es una aplicación web que permite a los usuarios realizar tareas imprescindibles. Con esta aplicación, puedes hacer lo siguiente:
 
-- Realizar X acciones.
-- Administrar Y recursos.
-- Explorar Z funcionalidades.
+- Realizar control de operaciones.
+- Administrar recursos, activos entre otros.
+- Explorar mejorar dentro del negocio.
+- Mantener un seguimiento adecuado a cada proceso.
 
-## Capturas de Pantalla
+## Dashboard
 
 Aquí tienes algunas capturas de pantalla de nuestra aplicación en acción:
 
@@ -28,6 +29,10 @@ Aquí tienes algunas capturas de pantalla de nuestra aplicación en acción:
 ### Perfil de Usuario
 
 ![Perfil de Usuario](screenshots/profile.png)
+
+### Otras funcionalidades
+![Perfil de Usuario](screenshots/profile.png)
+
 
 ## Instalación
 
